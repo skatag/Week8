@@ -1,0 +1,28 @@
+{
+  "name": "week8",
+  "version": "1.0.0",
+  "description": "learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+    "clean": "rm -rf node_modules"
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skatag/Week8.git"
+  },
+  "keywords": [
+    "keiterinn"
+  ],
+  "author": "kata\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b\u001b[B\u001b[C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skatag/Week8/issues"
+  },
+  "homepage": "https://github.com/skatag/Week8#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
+
